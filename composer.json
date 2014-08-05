@@ -1,5 +1,5 @@
 {
-    "name": "davispeixoto/laravel-salesforce",
+    "name": "claymm/laravel-salesforce",
     "description": "Laravel 4 Salesforce Force.com PHP Toolkit port",
     "keywords": ["laravel", "salesforce", "crm", "force.com toolkit", "laravel 4"],
     "license" : "MIT",
